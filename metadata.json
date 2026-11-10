@@ -1,0 +1,8 @@
+{
+  "name": "J.A. Sovereign God 4",
+  "description": "Heavy construction machinery rental, sales, servicing, repairs, maintenance, construction operations, and operator training in Tema, Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
